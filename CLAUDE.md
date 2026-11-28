@@ -22,9 +22,9 @@
 - Pocket Casts：https://pca.st/pyt0hct4
 
 ## 集數
-- EP1（2026.11.04）林宇凡｜MR. LIVING 居家先生 共同創辦人 → mrliving.com.tw
+- EP1（2026.10.30）林宇凡｜MR. LIVING 居家先生 共同創辦人 → mrliving.com.tw
 - EP2（2026.11.07）劉柏良｜老永昌碾米廠 第五代執行長 → 目前連 Google 地圖（待換官網）
-- EP3（2026.11.15）葉時昊 Hank Yeh｜工研院資通所 副經理 → itri.org.tw
+- EP3（2026.11.14）葉時昊 Hank Yeh｜工研院資通所 副經理 → itri.org.tw
 - EP4（2026.11.21）郭明宗｜小叮噹科學主題樂園 總經理 → 目前連 Google 地圖（待換官網）
 - EP5（2026.11.28）楊玉玲｜心路基金會 處長 → 心路官網與捐款頁（加 UTM，註明節目不經手款項）。YouTube 正片 ia14mpGnQw8（另一支 RFe0a3cYkIA「一位心路媽媽的願望」是短片，不放）。
 - 下集預告：目前沒有（EP6 來賓資料還沒給）。
