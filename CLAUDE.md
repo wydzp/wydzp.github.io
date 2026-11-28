@@ -26,12 +26,13 @@
 - EP2（2026.11.07）劉柏良｜老永昌碾米廠 第五代執行長 → 目前連 Google 地圖（待換官網）
 - EP3（2026.11.15）葉時昊 Hank Yeh｜工研院資通所 副經理 → itri.org.tw
 - EP4（2026.11.21）郭明宗｜小叮噹科學主題樂園 總經理 → 目前連 Google 地圖（待換官網）
-- 下集預告：楊玉玲｜心路基金會 處長 → 心路官網與捐款頁（加 UTM，註明節目不經手款項）。上架後同 EP4 作法：改成一般卡片、加三平台單集按鈕。
+- EP5（2026.11.28）楊玉玲｜心路基金會 處長 → 心路官網與捐款頁（加 UTM，註明節目不經手款項）。YouTube 正片 ia14mpGnQw8（另一支 RFe0a3cYkIA「一位心路媽媽的願望」是短片，不放）。
+- 下集預告：目前沒有（EP6 來賓資料還沒給）。
 
 ## 待辦
 - 更新節奏：每週六上架正片（首頁有「每週六更新」標籤），週五放預告。
 - 還沒上架的那一集：卡片用 `ep soon` 樣式＋「下集預告」標籤，不放收聽按鈕，改放「週六上架後開放收聽」。上架後改回一般卡片、加 YouTube / Spotify / Apple 三顆單集按鈕、標籤換成日期。
-- EP1–EP4 已有三平台單集連結；心路那集是「下集預告」。Spotify 單集網址可從 open.spotify.com 節目頁讀，Apple 用 itunes.apple.com/lookup?id=6828685996&entity=podcastEpisode 查。
+- EP1–EP5 已有三平台單集連結。Spotify 單集網址可從 open.spotify.com 節目頁讀，Apple 用 itunes.apple.com/lookup?id=6828685996&entity=podcastEpisode 查。
 - EP2 在 Firstory（同步到 Spotify / Apple）的標題還寫「碾米廠二代」，要到 Firstory 後台改成「第五代」。YouTube 和網站已改好。
 - 老永昌、小叮噹的官網或粉專網址。
 - 買好 wydzp.com 後：加 `CNAME` 檔（內容 `wydzp.com`），在註冊商設定 DNS 指向 GitHub Pages；index.html 的 canonical、og:url、JSON-LD url 和 robots.txt、sitemap.xml 裡的網址都要改成 https://wydzp.com/。
